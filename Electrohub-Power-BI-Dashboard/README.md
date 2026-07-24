@@ -137,7 +137,17 @@ Power-BI-Project-1-Requirements.pptx - PowerPoint file highlighting the business
 
 README.md — project documentation.
 
-Dashboard screenshots exported from Power BI for preview in the repository.
+Dashboard screenshots
+
+<img width="2560" height="1392" alt="Overview" src="https://github.com/user-attachments/assets/f0a8d711-d218-44fa-bb59-a254da34497e" />
+
+<img width="2560" height="1392" alt="TopBottom-Analysis" src="https://github.com/user-attachments/assets/c7dbd511-8e6a-4482-816f-fcaa5e969b12" />
+
+<img width="2560" height="1392" alt="Comparision Sales-Profit-QTY" src="https://github.com/user-attachments/assets/58f625aa-2ae9-476c-8539-3ba5bbdb09bc" />
+
+<img width="2560" height="1392" alt="Edit-Interactions" src="https://github.com/user-attachments/assets/564fff94-b1fa-4d9e-ba28-d1f558634003" />
+
+<img width="2560" height="1392" alt="Table-Visual" src="https://github.com/user-attachments/assets/759827f3-45ad-4db3-b12a-3fb6dcb15364" />
 
 ***Tools used***
 Microsoft Excel for source data storage.
