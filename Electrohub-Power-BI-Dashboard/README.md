@@ -1,4 +1,4 @@
-**ElectroHub Power BI Dashboard**
+# ***ElectroHub Power BI Dashboard***
 
 ***Overview***
 This project presents an interactive Power BI dashboard for ElectroHub, built from a retail sales dataset containing customer, product, promotion, and transactional order data across multiple categories including Electronics, Footwear, Clothing, Home Appliances, Accessories, Kitchenware, Bags, and Personal Care.
